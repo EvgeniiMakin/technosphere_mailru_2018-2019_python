@@ -1,0 +1,3 @@
+func = "summator"; result = 11
+func = "summator"; result = 17
+func = "summator"; result = 17

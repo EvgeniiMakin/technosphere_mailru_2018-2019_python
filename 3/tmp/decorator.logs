@@ -1,0 +1,12 @@
+num = 4; result = 9
+num = 3; result = 15
+num = 3; result = 15
+num = 4; result = 9
+num = 3; result = 15
+func = "summator"; result = 10
+func = "mod_taker"; result = [1, 2, 0, 1]
+func = "summator"; result = 15
+func = "summator"; result = 10
+func = "mod_taker"; result = [1, 2, 0, 1]
+func = "summator"; result = 10
+func = "mod_taker"; result = [1, 2, 0, 1]
