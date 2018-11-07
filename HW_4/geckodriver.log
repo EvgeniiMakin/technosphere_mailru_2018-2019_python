@@ -1006,3 +1006,111 @@ JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.j
 JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
 1541613538245	Marionette	INFO	Stopped listening on port 41439
 [Parent 18304, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1541630974444	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.chHu9L18pwz5"
+
+(firefox:25360): Gtk-WARNING **: 01:49:34.909: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:25360): Gtk-WARNING **: 01:49:34.909: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1541630975743	Marionette	INFO	Listening on port 45687
+1541630975753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541630982684	Marionette	INFO	Stopped listening on port 45687
+[Parent 25360, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1541630983107	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.u4T4zMvZJ5by"
+
+(firefox:25627): Gtk-WARNING **: 01:49:43.564: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:25627): Gtk-WARNING **: 01:49:43.564: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1541630984401	Marionette	INFO	Listening on port 35031
+1541630984413	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=675814723, line 1: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=675814723, line 1: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=675814723 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+[Parent 25627, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1541631015199	Marionette	INFO	Stopped listening on port 35031
+1541631075977	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WWLaJkG6RizS"
+
+(firefox:25916): Gtk-WARNING **: 01:51:16.437: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:25916): Gtk-WARNING **: 01:51:16.437: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1541631077266	Marionette	INFO	Listening on port 41769
+1541631077285	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2096233508, line 1: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+1541631155229	Marionette	INFO	Stopped listening on port 41769
+[Parent 25916, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1541631217049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CW1kdi2Lkcmu"
+
+(firefox:26445): Gtk-WARNING **: 01:53:37.491: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:26445): Gtk-WARNING **: 01:53:37.491: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1541631218279	Marionette	INFO	Listening on port 43815
+1541631218360	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=606657551, line 1: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=606657551, line 1: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=606657551 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+1541631377877	Marionette	INFO	Stopped listening on port 43815
+[Parent 26445, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 26445, Gecko_IOThread] WARNING: pipe error (119): Соединение разорвано другой стороной: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1541631506155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GhtDBi2XjI2W"
+
+(firefox:26968): Gtk-WARNING **: 01:58:26.604: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:26968): Gtk-WARNING **: 01:58:26.604: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1541631507521	Marionette	INFO	Listening on port 36767
+1541631507560	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2037069174, line 1: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2037069174, line 1: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2037069174 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.gdeslon.ru/landing.js?mid=80969&mode=list, line 107: Error: Error: remote script failed https://usercomebacker.com/input - https://www.gdeslon.ru/landing.js?mid=80969&mode=list: 107
+JavaScript error: https://www.gdeslon.ru/landing.js?mid=80969&mode=list, line 107: Error: remote script failed https://usercomebacker.com/input
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+1541631539567	Marionette	INFO	Stopped listening on port 36767
+[Parent 26968, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1541631574000	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1Dt41MEGsPb4"
+
+(firefox:27407): Gtk-WARNING **: 01:59:34.461: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:27407): Gtk-WARNING **: 01:59:34.461: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1541631575295	Marionette	INFO	Listening on port 43661
+1541631575306	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=874713845, line 1: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=874713845, line 1: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=874713845 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+1541631805592	Marionette	INFO	Stopped listening on port 43661
+[Parent 27407, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 27407, Gecko_IOThread] WARNING: pipe error (124): Соединение разорвано другой стороной: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
