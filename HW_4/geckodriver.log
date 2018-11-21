@@ -1200,3 +1200,211 @@ JavaScript error: https://www.chitai-gorod.ru/search/result.php?q=%CF%F3%F8%EA%E
 1541701022423	Marionette	INFO	Stopped listening on port 43747
 [Parent 9179, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
 [Parent 9179, Gecko_IOThread] WARNING: pipe error (125): Соединение разорвано другой стороной: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542790765192	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rINaQr5GVLd6"
+
+(firefox:27423): Gtk-WARNING **: 11:59:25.912: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:27423): Gtk-WARNING **: 11:59:25.912: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1542790766853	Marionette	INFO	Listening on port 45321
+1542790766904	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542790779043	Marionette	INFO	Stopped listening on port 45321
+[Parent 27423, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542790822724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FB1UXhJVMdkf"
+
+(firefox:27714): Gtk-WARNING **: 12:00:23.185: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:27714): Gtk-WARNING **: 12:00:23.185: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1542790824041	Marionette	INFO	Listening on port 38771
+1542790824134	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=228322760, line 1: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=228322760, line 1: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=228322760 line 1 > eval, line 1: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:27848): dconf-WARNING **: 12:00:30.222: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Отказано в доступе
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/PeerConnection.js, line 1894: TypeError: this._dompc._pc is undefined
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript error: https://www.gdeslon.ru/landing-backend.js?source=https%3A%2F%2Fwww.chitai-gorod.ru%2Fsearch%2Fresult.php%3Fq%3D%25D4%25F0%25E0%25E9%2520%25CC.%26type%3Dauthor&mid=80969&mode=list, line 108: Error: TypeError: e.data.substr is not a function - https://www.chitai-gorod.ru/bitrix/templates/t1/js-lib/openapi.js: 158
+JavaScript error: https://www.chitai-gorod.ru/bitrix/templates/t1/js-lib/openapi.js, line 158: TypeError: e.data.substr is not a function
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/PeerConnection.js, line 1894: TypeError: this._dompc._pc is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/PeerConnection.js, line 1894: TypeError: this._dompc._pc is undefined
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+1542791054690	Marionette	INFO	Stopped listening on port 38771
+[Parent 27714, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542804622256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sILLAKGaB4tB"
+
+(firefox:9911): Gtk-WARNING **: 15:50:22.724: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9911): Gtk-WARNING **: 15:50:22.724: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1542804623546	Marionette	INFO	Listening on port 44305
+1542804623567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1660613561, line 1: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1660613561 line 1 > eval, line 1: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:10052): dconf-WARNING **: 15:50:32.325: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Отказано в доступе
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/PeerConnection.js, line 1894: TypeError: this._dompc._pc is undefined
+JavaScript error: https://www.gdeslon.ru/landing-backend.js?source=https%3A%2F%2Fwww.chitai-gorod.ru%2Fsearch%2Fresult.php%3Fq%3D%25D4%25F0%25E0%25E9%2520%25CC.%26type%3Dauthor&mid=80969&mode=list, line 108: Error: Error: remote script failed https://event.getblue.io/js/blue-tag.min.js - https://www.gdeslon.ru/landing-backend.js?source=https%3A%2F%2Fwww.chitai-gorod.ru%2Fsearch%2Fresult.php%3Fq%3D%25D4%25F0%25E0%25E9%2520%25CC.%26type%3Dauthor&mid=80969&mode=list: 108
+JavaScript error: https://www.gdeslon.ru/landing-backend.js?source=https%3A%2F%2Fwww.chitai-gorod.ru%2Fsearch%2Fresult.php%3Fq%3D%25D4%25F0%25E0%25E9%2520%25CC.%26type%3Dauthor&mid=80969&mode=list, line 108: Error: remote script failed https://event.getblue.io/js/blue-tag.min.js
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/PeerConnection.js, line 1894: TypeError: this._dompc._pc is undefined
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/PeerConnection.js, line 1894: TypeError: this._dompc._pc is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://www.chitai-gorod.ru/ii/lib/jquery.min.js, line 3: TypeError: c is null
+JavaScript error: https://top-fwz1.mail.ru/js/code.js, line 17: NS_ERROR_NOT_INITIALIZED: 
+[Parent 9911, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 9911, Gecko_IOThread] WARNING: pipe error (86): Соединение разорвано другой стороной: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542804877291	Marionette	INFO	Stopped listening on port 44305
+1542804894984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FZSVIU1zL2xG"
+
+(firefox:10296): Gtk-WARNING **: 15:54:55.484: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10296): Gtk-WARNING **: 15:54:55.484: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1542804896343	Marionette	INFO	Listening on port 40845
+1542804896390	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=1913492823, line 1: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:10438): dconf-WARNING **: 15:55:02.689: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Отказано в доступе
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/PeerConnection.js, line 1894: TypeError: this._dompc._pc is undefined
+JavaScript error: https://www.gdeslon.ru/landing-backend.js?source=https%3A%2F%2Fwww.chitai-gorod.ru%2Fsearch%2Fresult.php%3Fq%3D%25D4%25F0%25E0%25E9%2520%25CC.%26type%3Dauthor&mid=80969&mode=list, line 108: Error: Error: remote script failed https://usercomebacker.com/input - https://www.gdeslon.ru/landing-backend.js?source=https%3A%2F%2Fwww.chitai-gorod.ru%2Fsearch%2Fresult.php%3Fq%3D%25D4%25F0%25E0%25E9%2520%25CC.%26type%3Dauthor&mid=80969&mode=list: 108
+JavaScript error: https://www.gdeslon.ru/landing-backend.js?source=https%3A%2F%2Fwww.chitai-gorod.ru%2Fsearch%2Fresult.php%3Fq%3D%25D4%25F0%25E0%25E9%2520%25CC.%26type%3Dauthor&mid=80969&mode=list, line 108: Error: remote script failed https://usercomebacker.com/input
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/PeerConnection.js, line 1894: TypeError: this._dompc._pc is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/PeerConnection.js, line 1894: TypeError: this._dompc._pc is undefined
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/PeerConnection.js, line 1894: TypeError: this._dompc._pc is undefined
+1542805118696	Marionette	INFO	Stopped listening on port 40845
+[Parent 10296, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 10296, Gecko_IOThread] WARNING: pipe error (68): Соединение разорвано другой стороной: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542805901526	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Oz8ZXl3ebn1m"
+
+(firefox:14418): Gtk-WARNING **: 16:11:41.998: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14418): Gtk-WARNING **: 16:11:41.998: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1542805902830	Marionette	INFO	Listening on port 44297
+1542805902931	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1988614347, line 1: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1988614347, line 1: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1988614347 line 1 > eval, line 1: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:14565): dconf-WARNING **: 16:11:48.171: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Отказано в доступе
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/PeerConnection.js, line 1894: TypeError: this._dompc._pc is undefined
+JavaScript error: https://www.gdeslon.ru/landing-backend.js?source=https%3A%2F%2Fwww.chitai-gorod.ru%2Fsearch%2Fresult.php%3Fq%3D%25D4%25F0%25E0%25E9%2520%25CC.%26type%3Dauthor&mid=80969&mode=list, line 108: Error: Error: remote script failed https://usercomebacker.com/input - https://www.gdeslon.ru/landing-backend.js?source=https%3A%2F%2Fwww.chitai-gorod.ru%2Fsearch%2Fresult.php%3Fq%3D%25D4%25F0%25E0%25E9%2520%25CC.%26type%3Dauthor&mid=80969&mode=list: 108
+JavaScript error: https://www.gdeslon.ru/landing-backend.js?source=https%3A%2F%2Fwww.chitai-gorod.ru%2Fsearch%2Fresult.php%3Fq%3D%25D4%25F0%25E0%25E9%2520%25CC.%26type%3Dauthor&mid=80969&mode=list, line 108: Error: remote script failed https://usercomebacker.com/input
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/PeerConnection.js, line 1894: TypeError: this._dompc._pc is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/PeerConnection.js, line 1894: TypeError: this._dompc._pc is undefined
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/PeerConnection.js, line 1894: TypeError: this._dompc._pc is undefined
+1542806077527	Marionette	INFO	Stopped listening on port 44297
+[Parent 14418, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542806169279	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.scYxcKqehCEV"
+
+(firefox:14952): Gtk-WARNING **: 16:16:09.763: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14952): Gtk-WARNING **: 16:16:09.763: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1542806170568	Marionette	INFO	Listening on port 35601
+1542806170588	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1071835546, line 1: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1071835546, line 1: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1071835546 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.gdeslon.ru/landing-backend.js?source=https%3A%2F%2Fwww.chitai-gorod.ru%2Fsearch%2Fresult.php%3Fq%3D%25D4%25F0%25E0%25E9%2520%25CC.%26type%3Dauthor&mid=80969&mode=list, line 108: Error: Error: remote script failed https://usercomebacker.com/input - https://www.gdeslon.ru/landing-backend.js?source=https%3A%2F%2Fwww.chitai-gorod.ru%2Fsearch%2Fresult.php%3Fq%3D%25D4%25F0%25E0%25E9%2520%25CC.%26type%3Dauthor&mid=80969&mode=list: 108
+JavaScript error: https://www.gdeslon.ru/landing-backend.js?source=https%3A%2F%2Fwww.chitai-gorod.ru%2Fsearch%2Fresult.php%3Fq%3D%25D4%25F0%25E0%25E9%2520%25CC.%26type%3Dauthor&mid=80969&mode=list, line 108: Error: remote script failed https://usercomebacker.com/input
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:15095): dconf-WARNING **: 16:16:24.514: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Отказано в доступе
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/PeerConnection.js, line 1894: TypeError: this._dompc._pc is undefined
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/PeerConnection.js, line 1894: TypeError: this._dompc._pc is undefined
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/PeerConnection.js, line 1894: TypeError: this._dompc._pc is undefined
+1542806397877	Marionette	INFO	Stopped listening on port 35601
+[Parent 14952, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542807065483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mMViyyOnDsO5"
+
+(firefox:17259): Gtk-WARNING **: 16:31:05.988: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:17259): Gtk-WARNING **: 16:31:05.988: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1542807066812	Marionette	INFO	Listening on port 34143
+1542807066903	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:17403): dconf-WARNING **: 16:31:11.520: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Отказано в доступе
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=48&cb=184058805, line 1: unreachable code after return statement
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/PeerConnection.js, line 1894: TypeError: this._dompc._pc is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/PeerConnection.js, line 1894: TypeError: this._dompc._pc is undefined
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search.js?v=4, line 155: unreachable code after return statement
+JavaScript warning: https://www.chitai-gorod.ru/search/elasticsearch-js/search-result.js?v=8, line 2394: unreachable code after return statement
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/PeerConnection.js, line 1894: TypeError: this._dompc._pc is undefined
+1542807218414	Marionette	INFO	Stopped listening on port 34143
+[Parent 17259, Gecko_IOThread] WARNING: pipe error (78): Соединение разорвано другой стороной: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
