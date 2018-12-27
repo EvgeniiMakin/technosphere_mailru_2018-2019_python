@@ -38,7 +38,7 @@ https://www.chitai-gorod.ru/search/result.php?q={author}&type=author
 
 Рассмотрим в качестве примера [карточку](https://www.chitai-gorod.ru/catalog/book/1059170/) книги Макса Фрая "Мертвый ноль".
 
-![скриншот](/images/1059170.png)
+![скриншот](/Homework/HW_4/images/1059170.png)
 
 На скриншоте выделены 4 области, из каждой области требуется извлечь следующие элементы:
 1. поле "ID карточки";
